@@ -1,0 +1,17 @@
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\Academy.Application.deps.json
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\Academy.Application.dll
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\ref\Academy.Application.dll
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\Academy.Application.pdb
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\Academy.Domain.dll
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\Application.Contract.dll
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\Academy.Domain.pdb
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\bin\Debug\net5.0\Application.Contract.pdb
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.csproj.AssemblyReference.cache
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.GeneratedMSBuildEditorConfig.editorconfig
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.AssemblyInfoInputs.cache
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.AssemblyInfo.cs
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.csproj.CoreCompileInputs.cache
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.csproj.CopyComplete
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.dll
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\ref\Academy.Application.dll
+A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Application\obj\Debug\net5.0\Academy.Application.pdb
