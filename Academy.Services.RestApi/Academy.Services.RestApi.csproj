@@ -15,4 +15,8 @@
       <ProjectReference Include="..\Application.Contract\Application.Contract.csproj" />
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="Controllers\CourseController.cs" />
+    </ItemGroup>
+
 </Project>
