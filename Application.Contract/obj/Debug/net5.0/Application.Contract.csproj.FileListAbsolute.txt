@@ -10,3 +10,15 @@ A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Application.Contract\obj\Debug\n
 A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Application.Contract\obj\Debug\net5.0\Application.Contract.dll
 A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Application.Contract\obj\Debug\net5.0\ref\Application.Contract.dll
 A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Application.Contract\obj\Debug\net5.0\Application.Contract.pdb
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\bin\Debug\net5.0\Application.Contract.deps.json
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\bin\Debug\net5.0\Application.Contract.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\bin\Debug\net5.0\ref\Application.Contract.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\bin\Debug\net5.0\Application.Contract.pdb
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\Application.Contract.csproj.AssemblyReference.cache
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\Application.Contract.AssemblyInfoInputs.cache
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\Application.Contract.AssemblyInfo.cs
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\Application.Contract.csproj.CoreCompileInputs.cache
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\Application.Contract.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\ref\Application.Contract.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Application.Contract\obj\Debug\net5.0\Application.Contract.pdb

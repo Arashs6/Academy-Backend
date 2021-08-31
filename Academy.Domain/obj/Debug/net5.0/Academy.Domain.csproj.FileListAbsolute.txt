@@ -10,3 +10,15 @@ A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Domain\obj\Debug\net5.0\
 A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Domain\obj\Debug\net5.0\Academy.Domain.dll
 A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Domain\obj\Debug\net5.0\ref\Academy.Domain.dll
 A:\VSProject\Angular\Hadi-Class\BackEnd\Academy\Academy.Domain\obj\Debug\net5.0\Academy.Domain.pdb
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\bin\Debug\net5.0\Academy.Domain.deps.json
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\bin\Debug\net5.0\Academy.Domain.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\bin\Debug\net5.0\ref\Academy.Domain.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\bin\Debug\net5.0\Academy.Domain.pdb
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\Academy.Domain.csproj.AssemblyReference.cache
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\Academy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\Academy.Domain.AssemblyInfoInputs.cache
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\Academy.Domain.AssemblyInfo.cs
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\Academy.Domain.csproj.CoreCompileInputs.cache
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\Academy.Domain.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\ref\Academy.Domain.dll
+D:\Arash\Projects\FrontEnd\Academy-Backend\Academy.Domain\obj\Debug\net5.0\Academy.Domain.pdb

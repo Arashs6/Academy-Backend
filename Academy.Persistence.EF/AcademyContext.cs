@@ -1,5 +1,6 @@
 ﻿using System;
 using Academy.Domain;
+using Academy.Persistence.EF.Mappings;
 using Microsoft.EntityFrameworkCore;
 
 namespace Academy.Persistence.EF

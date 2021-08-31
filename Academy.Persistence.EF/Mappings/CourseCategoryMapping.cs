@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace Academy.Persistence.EF
+namespace Academy.Persistence.EF.Mappings
 {
     public class CourseCategoryMapping : IEntityTypeConfiguration<CourseCategory>
     {

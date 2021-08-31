@@ -8,27 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Arash\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet": {},
+    "C:\\Users\\a.sardari\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj",
+      "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj",
       "projectName": "Academy.Domain",
-      "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj",
-      "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-      "outputPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\obj\\",
+      "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj",
+      "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+      "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -68,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

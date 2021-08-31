@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj": {}
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj": {}
   },
   "projects": {
-    "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\Academy.Application.csproj": {
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\Academy.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\Academy.Application.csproj",
+        "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\Academy.Application.csproj",
         "projectName": "Academy.Application",
-        "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\Academy.Application.csproj",
-        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-        "outputPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\obj\\",
+        "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\Academy.Application.csproj",
+        "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+        "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -34,11 +32,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj"
               },
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj"
               }
             }
           }
@@ -73,27 +71,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Confige\\Academy.Confige.csproj": {
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Confige\\Academy.Confige.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Confige\\Academy.Confige.csproj",
+        "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Confige\\Academy.Confige.csproj",
         "projectName": "Academy.Confige",
-        "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Confige\\Academy.Confige.csproj",
-        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-        "outputPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Confige\\obj\\",
+        "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Confige\\Academy.Confige.csproj",
+        "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+        "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Confige\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -107,17 +103,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\Academy.Application.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\Academy.Application.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\Academy.Application.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\Academy.Application.csproj"
               },
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj"
               },
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj"
               },
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj"
               }
             }
           }
@@ -146,27 +142,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj": {
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj",
+        "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj",
         "projectName": "Academy.Domain",
-        "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj",
-        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-        "outputPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\obj\\",
+        "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj",
+        "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+        "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -206,27 +200,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj": {
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj",
+        "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj",
         "projectName": "Academy.Persistence.EF",
-        "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj",
-        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-        "outputPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Persistence.EF\\obj\\",
+        "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Persistence.EF\\Academy.Persistence.EF.csproj",
+        "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+        "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Persistence.EF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -240,8 +232,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Domain\\Academy.Domain.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Domain\\Academy.Domain.csproj"
               }
             }
           }
@@ -286,27 +278,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj": {
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj",
+        "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj",
         "projectName": "Academy.Services.RestApi",
-        "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj",
-        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-        "outputPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Services.RestApi\\obj\\",
+        "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Services.RestApi\\Academy.Services.RestApi.csproj",
+        "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+        "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Services.RestApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -320,14 +310,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\Academy.Application.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Application\\Academy.Application.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\Academy.Application.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Application\\Academy.Application.csproj"
               },
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Confige\\Academy.Confige.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Academy.Confige\\Academy.Confige.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Confige\\Academy.Confige.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Academy.Confige\\Academy.Confige.csproj"
               },
-              "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj": {
-                "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj"
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj"
+              },
+              "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Framework.Core\\Framework.Core.csproj"
               }
             }
           }
@@ -342,6 +335,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "AutoFixture": {
+              "target": "Package",
+              "version": "[4.17.0, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[5.0.2, )"
@@ -369,27 +366,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj": {
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj",
+        "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj",
         "projectName": "Application.Contract",
-        "projectPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\Application.Contract.csproj",
-        "packagesPath": "C:\\Users\\Arash\\.nuget\\packages\\",
-        "outputPath": "A:\\VSProject\\Angular\\Hadi-Class\\BackEnd\\Academy\\Application.Contract\\obj\\",
+        "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+        "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Application.Contract\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Arash\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -429,7 +424,65 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Framework.Core\\Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Framework.Core\\Framework.Core.csproj",
+        "projectName": "Framework.Core",
+        "projectPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Framework.Core\\Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\a.sardari\\.nuget\\packages\\",
+        "outputPath": "D:\\Arash\\Projects\\FrontEnd\\Academy-Backend\\Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\a.sardari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.39.6:8080/tfs/PAP Projects/_packaging/Pap-Feed/nuget/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

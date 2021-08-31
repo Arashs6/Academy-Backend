@@ -5,6 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="AutoFixture" Version="4.17.0" />
         <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
     </ItemGroup>
@@ -13,6 +14,7 @@
       <ProjectReference Include="..\Academy.Application\Academy.Application.csproj" />
       <ProjectReference Include="..\Academy.Confige\Academy.Confige.csproj" />
       <ProjectReference Include="..\Application.Contract\Application.Contract.csproj" />
+      <ProjectReference Include="..\Framework.Core\Framework.Core.csproj" />
     </ItemGroup>
 
 </Project>
